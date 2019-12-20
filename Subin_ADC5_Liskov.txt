@@ -1,0 +1,2 @@
+L-LSP (Liskov Substitution Principle) 
+Liskov Substitution  Principle says  that  parent  should easily replace the child. A parent class object should be able to refer  the child class objects.  A child class  can be derived to use the functionality of the parent class but it should  be a replacement of  its parent class. If  the child class also  does the  same function  of a  parent class. Then we say that it is violating LSP
