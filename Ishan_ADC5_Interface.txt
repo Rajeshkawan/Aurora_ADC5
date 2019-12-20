@@ -1,0 +1,22 @@
+I-ISP (Interface Segregation Principle) 
+Interface  Segregation  Principle  states  that  client 
+should not be forced to use an interface if it does not 
+need it. Clients should only know about the methods 
+or  interface  which  are  interested  to  them.  Robert 
+Martin  formulated  this  principle  when  creating 
+software for a Xerox. While developing the software, 
+even a minor change would take redeployment of an 
+hour. Because, the classes that are connected to the 
+print class could see the methods of it. 
+D-DIP (Dependency Inversion Principle) 
+Dependency Inversion Principle states that 
+1)  High level modules should not depend on 
+low  level  modules.  Both  should  depend  on 
+abstractions 
+2)  Abstractions  should  not  depend  on 
+details. Details should depend on abstractions. 
+The principle of dependency inversion is at the root 
+of  many  of  the  benefits  claimed  for  object-oriented 
+technology. Its proper application is necessary for the 
+creation of reusable frameworks. 
+
